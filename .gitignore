@@ -1,0 +1,16 @@
+/target
+/flows
+/mappings
+/src/main/webapp/h2
+/src/main/app
+/src/main/webapp/WEB-INF/classes
+/src/main/webapp/WEB-INF/work
+/src/main/webapp/WEB-INF/lib
+/.settings
+/.classpath
+/.project
+/bin
+/.idea
+/*.iml
+/.externalToolBuilders
+/.git
